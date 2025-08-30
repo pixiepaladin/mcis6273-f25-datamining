@@ -1,5 +1,19 @@
-# mcis6273-f25-datamining
-For Data Mining 2025
-Zotero: mosaicbrain
+# hello MCIS6273
+***
+lots of **different** formatting options  
+To add *emphasis* and be dramatic  
+> I can make block quotes using `>`
+>> these can be nested  
 
-Hi my name is Casey Mills. I'm excited for my first class in the masters program!
+~I don't want this line~  
+You can make something look like code using `backticks`  
+
+Adding websites is [easy](https://www.youtube.com/watch?v=xvFZjo5PgG0 "Something you wanna click")
+
+You can also add pictures using `!`  
+![This is the summer triangle!](Summer_triangle.png "My favorite is Vega")  
+
+This is the summer triangle! Featuring:
+- Vega
+- Altair
+- Denub
